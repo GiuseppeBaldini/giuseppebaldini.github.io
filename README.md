@@ -1,3 +1,3 @@
 # Hello World! 
 
-My name is Giuseppe Baldini
+My name is Giuseppe Baldini.
