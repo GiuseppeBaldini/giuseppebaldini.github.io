@@ -7,7 +7,7 @@ As you can see, it's nothing fancy now: a picture, text and links.
 
 ## Notes
 
-A quick overview:
+A quick overview on some elements:
 
 **Font**: [Lato](https://fonts.google.com/specimen/Lato) <> Fallbacks: Verdana, Helvetica
 
@@ -15,13 +15,12 @@ A quick overview:
 
 **Colors**: Links = Light Blue (1772d0) <> Hover = Bright Green (00cc88) 
 
-
-## Little improvements needed
+## What's next
 
 I am planning to expand it and potentially even migrate it to my own domain. For this purpose, I am leaving here some notes for future development.  
 
 Here are a few thoughts / ideas:
 
-1. Play around with **fonts** - [Google Fonts](https://fonts.google.com/) is a great place to start!
-2. Try out **Jekyll Themes**  - [Prologue](http://jekyllthemes.org/themes/jekyll-theme-prologue/), [Space](http://jekyllthemes.org/themes/space-jekyll-template/) and [Cayman](http://jekyllthemes.org/themes/cayman-theme/) look good
+1. Try out **Jekyll Themes**  - [Prologue](http://jekyllthemes.org/themes/jekyll-theme-prologue/), [Space](http://jekyllthemes.org/themes/space-jekyll-template/) and [Cayman](http://jekyllthemes.org/themes/cayman-theme/) look good
+2. Play around with **fonts** - [Google Fonts](https://fonts.google.com/) is a great place to start!
 3. Improve **mobile responsiveness** - [Bootstrap](https://getbootstrap.com/) may be of help
