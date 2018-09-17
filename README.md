@@ -2,7 +2,7 @@
 
 My name is Giuseppe Baldini.
 
-I set up this website as a way to experiment with **HTML** / **CSS** and **GitHub Pages**.  
+I set up this website as a way to experiment with HTML / CSS and GitHub Pages.  
 As you can see, it's nothing fancy now: a picture, text and links. 
 
 ## Notes
