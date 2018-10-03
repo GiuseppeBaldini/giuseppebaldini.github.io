@@ -17,8 +17,6 @@ A quick overview on some elements:
 
 ## What's next
 
-I am planning to expand it and potentially even migrate it to my own domain. For this purpose, I am leaving here some notes for future development.  
-
 Here are a few thoughts / ideas:
 
 1. Try out **Jekyll Themes**  - [Prologue](http://jekyllthemes.org/themes/jekyll-theme-prologue/), [Space](http://jekyllthemes.org/themes/space-jekyll-template/) and [Cayman](http://jekyllthemes.org/themes/cayman-theme/) look good
