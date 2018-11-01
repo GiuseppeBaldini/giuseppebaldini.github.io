@@ -11,7 +11,7 @@ A quick overview on some elements:
 
 **Font**: [Lato](https://fonts.google.com/specimen/Lato) <> Fallbacks: Verdana, Helvetica
 
-**Size**: Body (14px) <> Name (34px)
+**Size**: Body (14px) - Name (34px)
 
 **Colors**: Links = Light Blue (1772d0) <> Hover = Bright Green (00cc88) 
 
