@@ -17,7 +17,7 @@ A quick overview on some elements:
 
 ## What's next
 
-Here are a few thoughts / ideas:
+Here are a few thoughts / ideas for future me:
 
 1. Try out **Jekyll Themes**  - [Prologue](http://jekyllthemes.org/themes/jekyll-theme-prologue/), [Space](http://jekyllthemes.org/themes/space-jekyll-template/) and [Cayman](http://jekyllthemes.org/themes/cayman-theme/) look good
 2. Play around with **fonts** - [Google Fonts](https://fonts.google.com/) is a great place to start!
